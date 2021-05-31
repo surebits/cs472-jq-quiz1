@@ -1,0 +1,3 @@
+jQuery function, which lets you select elements using CSS selectors, when you pass a selector to a jquery function it returns a jquery object.
+
+The jQuery object has properties like length and methods on it like ready(), click() etc. The jQuery object just wraps the DOM elements to make interactivity and DOM manipulation easier.
